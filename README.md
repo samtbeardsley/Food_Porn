@@ -15,7 +15,7 @@ The final developed model utilized the ResNet50 architecture pre-trained on the 
 
 ### Documentation
  * [Project Report](https://github.com/samtbeardsley/Food_Porn/blob/master/Project%20Report.pdf)
- * Presentation - to be added
+ * [Presentation](https://github.com/samtbeardsley/Food_Porn/blob/master/Presentation.pdf)
 
 ### Notebooks
 * [Data Wrangling](https://github.com/samtbeardsley/Food_Porn/blob/master/01_Data_Wrangling.ipynb)
