@@ -7,11 +7,11 @@ import gradio as gr
 
 
 #load model
-json_file = open('model.json','r')
+json_file = open('Model/model.json','r')
 model_json = json_file.read()
 json_file.close()
 model = model_from_json(model_json)
-model.load_weights('model.h5')
+model.load_weights('Model/model.h5')
 model.compile(loss='categorical_crossentropy',optimizer='adam', metrics=['accuracy'])
 
 
